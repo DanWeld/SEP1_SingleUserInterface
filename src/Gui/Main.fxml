@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="511.0" prefWidth="701.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TabPane prefHeight="511.0" prefWidth="701.0" tabClosingPolicy="UNAVAILABLE">
+         <tabs>
+            <Tab text="Customer">
+               <content>
+                  <fx:include source="Customer.fxml" />
+               </content>
+            </Tab>
+            <Tab text="Pet">
+               <content>
+                  <fx:include source="Pet.fxml" />
+               </content>
+            </Tab>
+            <Tab text="Sale">
+               <content>
+                  <fx:include source="Sale.fxml" />
+               </content>
+            </Tab>
+            <Tab text="Reservation">
+               <content>
+                  <fx:include source="Reservation.fxml" />
+               </content>
+            </Tab>
+         </tabs>
+      </TabPane>
+   </children>
+</AnchorPane>

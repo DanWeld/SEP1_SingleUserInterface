@@ -1,0 +1,13 @@
+img {
+  max-width: 656px;
+  max-height: 351px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(1);
+}
+
+.custom-bg {
+  background-color: #d8d8d8;
+}

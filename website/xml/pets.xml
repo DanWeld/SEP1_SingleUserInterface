@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PetList>
+  <pets>
+    <gender>F</gender>
+    <color>White</color>
+    <species>Cat</species>
+    <price>-1.0</price>
+    <breeder>John</breeder>
+    <name>Misty</name>
+    <comment>Does not Bite, and she is okay with kids</comment>
+    <birthDate>
+      <month>1</month>
+      <year>2019</year>
+      <day>1</day>
+    </birthDate>
+    <breed>Siamese</breed>
+    <customer>
+      <emailAddress>john@gmail.com</emailAddress>
+      <phoneNumber>71846557</phoneNumber>
+      <name>John</name>
+    </customer>
+  </pets>
+  <pets>
+    <gender>M</gender>
+    <color>Brown</color>
+    <species>Dog</species>
+    <price>-1.0</price>
+    <breeder>John</breeder>
+    <name>Rex</name>
+    <comment>Does not bark</comment>
+    <birthDate>
+      <month>1</month>
+      <year>2019</year>
+      <day>2</day>
+    </birthDate>
+    <breed>Golden Retriever</breed>
+    <customer>
+      <emailAddress>jane@gmail.com</emailAddress>
+      <phoneNumber>71146258</phoneNumber>
+      <name>Jane</name>
+    </customer>
+  </pets>
+  <pets>
+    <gender>F</gender>
+    <color>Yellow</color>
+    <species>Bird</species>
+    <price>-1.0</price>
+    <name>Tweety</name>
+    <comment>Can talk</comment>
+    <preferredFood>Seeds</preferredFood>
+    <type>Parrot</type>
+    <birthDate>
+      <month>1</month>
+      <year>2019</year>
+      <day>3</day>
+    </birthDate>
+    <customer>
+      <emailAddress>sam@gmao.com</emailAddress>
+      <phoneNumber>26843257</phoneNumber>
+      <name>Sam</name>
+    </customer>
+  </pets>
+  <pets>
+    <isSaltyWater>true</isSaltyWater>
+    <gender>M</gender>
+    <color>Gold</color>
+    <species>Fish</species>
+    <price>-1.0</price>
+    <name>Goldie</name>
+    <comment>Swims fast</comment>
+    <isPredator>false</isPredator>
+    <birthDate>
+      <month>1</month>
+      <year>2019</year>
+      <day>4</day>
+    </birthDate>
+    <customer>
+      <emailAddress>sara@gmail.com</emailAddress>
+      <phoneNumber>92036557</phoneNumber>
+      <name>Sara</name>
+    </customer>
+  </pets>
+  <pets>
+    <gender>F</gender>
+    <color>Black</color>
+    <species>Rabbit</species>
+    <price>-1.0</price>
+    <name>Fluffy</name>
+    <comment>Does not bite</comment>
+    <birthDate>
+      <month>1</month>
+      <year>2019</year>
+      <day>5</day>
+    </birthDate>
+    <customer>
+      <emailAddress>sally@gmail.com</emailAddress>
+      <phoneNumber>71231457</phoneNumber>
+      <name>Sally</name>
+    </customer>
+  </pets>
+  <pets>
+    <gender>M</gender>
+    <color>Gray</color>
+    <species>Rodent</species>
+    <price>100.0</price>
+    <name>Jerry</name>
+    <comment>Eats cheese</comment>
+    <biteBehaviour>false</biteBehaviour>
+    <type>Mouse</type>
+    <birthDate>
+      <month>1</month>
+      <year>2019</year>
+      <day>6</day>
+    </birthDate>
+  </pets>
+  <pets>
+    <gender>m</gender>
+    <color>Black</color>
+    <species>Cat</species>
+    <price>1000.0</price>
+    <breeder>John's family</breeder>
+    <name>Milo</name>
+    <comment>Loves to play</comment>
+    <birthDate>
+      <month>1</month>
+      <year>2018</year>
+      <day>1</day>
+    </birthDate>
+    <breed>Persian</breed>
+  </pets>
+  <pets>
+    <gender>f</gender>
+    <color>White</color>
+    <species>Cat</species>
+    <price>1000.0</price>
+    <breeder>Jane's family</breeder>
+    <name>Bella</name>
+    <comment>Very affectionate</comment>
+    <birthDate>
+      <month>2</month>
+      <year>2019</year>
+      <day>2</day>
+    </birthDate>
+    <breed>Siamese</breed>
+  </pets>
+  <pets>
+    <gender>M</gender>
+    <color>Brown</color>
+    <species>Dog</species>
+    <price>2000.0</price>
+    <breeder>John's family</breeder>
+    <name>Rexion</name>
+    <comment>Does not bark</comment>
+    <birthDate>
+      <month>3</month>
+      <year>2020</year>
+      <day>3</day>
+    </birthDate>
+    <breed>Golden Retriever</breed>
+  </pets>
+  <pets>
+    <gender>F</gender>
+    <color>Yellow</color>
+    <species>Bird</species>
+    <price>500.0</price>
+    <name>Tweetah</name>
+    <comment>Can talk</comment>
+    <preferredFood>Seeds</preferredFood>
+    <type>Parrot</type>
+    <birthDate>
+      <month>4</month>
+      <year>2021</year>
+      <day>4</day>
+    </birthDate>
+  </pets>
+  <pets>
+    <isSaltyWater>true</isSaltyWater>
+    <gender>M</gender>
+    <color>Gold</color>
+    <species>Fish</species>
+    <price>50.0</price>
+    <name>Golden</name>
+    <comment>Swims fast</comment>
+    <isPredator>false</isPredator>
+    <birthDate>
+      <month>5</month>
+      <year>2022</year>
+      <day>5</day>
+    </birthDate>
+  </pets>
+  <pets>
+    <gender>F</gender>
+    <color>Black</color>
+    <species>Rabbit</species>
+    <price>200.0</price>
+    <name>Fluffy</name>
+    <comment>Does not bite</comment>
+    <birthDate>
+      <month>6</month>
+      <year>2023</year>
+      <day>6</day>
+    </birthDate>
+  </pets>
+  <pets>
+    <gender>M</gender>
+    <color>Gray</color>
+    <species>Rodent</species>
+    <price>100.0</price>
+    <name>Jerry</name>
+    <comment>Eats cheese</comment>
+    <biteBehaviour>false</biteBehaviour>
+    <type>Mouse</type>
+    <birthDate>
+      <month>7</month>
+      <year>2024</year>
+      <day>7</day>
+    </birthDate>
+  </pets>
+  <pets>
+    <gender>M</gender>
+    <color>Brown</color>
+    <species>Dog</species>
+    <price>2000.0</price>
+    <breeder>John's family</breeder>
+    <name>Rex</name>
+    <comment>Does not bark</comment>
+    <birthDate>
+      <month>8</month>
+      <year>2023</year>
+      <day>8</day>
+    </birthDate>
+    <breed>Golden Retriever</breed>
+  </pets>
+  <pets>
+    <gender>F</gender>
+    <color>Yellow</color>
+    <species>Bird</species>
+    <price>500.0</price>
+    <name>Tweetah</name>
+    <comment>Can talk</comment>
+    <preferredFood>Seeds</preferredFood>
+    <type>Parrot</type>
+    <birthDate>
+      <month>9</month>
+      <year>2023</year>
+      <day>9</day>
+    </birthDate>
+  </pets>
+</PetList>
