@@ -1,6 +1,6 @@
 SEP 1 project 
  by 
-Daniel Weldesilasie
+Daniel Weldesilasie,
 Lea Gazel,
 Shishir Gajurel,
 Jwan Hasan
